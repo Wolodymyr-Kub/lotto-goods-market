@@ -23,7 +23,7 @@ const Index = () => {
       name: "Коштовності",
       price: 350000,
       isLottery: true,
-      image: "https://images.unsplash.com/photo-1515873212753-0a318aa8c562?w=500&q=80",
+      image: "/lovable-uploads/40c6a9e8-13f8-48f5-b7e1-78f8367321ce.png",
     },
     {
       id: 4,
